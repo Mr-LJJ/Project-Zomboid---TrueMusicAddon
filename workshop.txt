@@ -1,0 +1,6 @@
+version=1
+id=
+title=True Music Addon: *write unique name*
+description=*write unique description*
+tags=Build 41;Multiplayer;Pop Culture
+visibility=unlisted

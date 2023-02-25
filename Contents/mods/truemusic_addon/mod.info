@@ -1,0 +1,5 @@
+name=True Music Addon 1.01: *write unique name*
+poster=poster.png
+id=write_unique_id_use_any_letters
+require=truemusic
+description=
