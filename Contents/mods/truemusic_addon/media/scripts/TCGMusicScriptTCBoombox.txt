@@ -1,0 +1,639 @@
+module Tsarcraft
+{
+	imports
+	{
+		Base
+	}
+/********************Generated Music Carriers********************/
+
+	item Cassette5SecondsofSummerYoungblood
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette 5 Seconds of Summer - Youngblood,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteAlanWalkerGavinJamesTired
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Alan WalkerGavin James - Tired,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteAviciiMartinGarrixSimonAldredWaitingForLove
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette AviciiMartin GarrixSimon Aldred - Waiting For Love,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteAviciiWaitingForLove
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette Avicii_Waiting_For_Love,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassettebbnoRichBrianedamameOfficialVideo
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette bbno_Rich_Brian_edamame_Official_Video_,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteBeyondguanghuisuiyue
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Beyond - guanghuisuiyue,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteBeyondhaikuotiankong
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Beyond - haikuotiankong,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteCarpentersYesterdayOnceMore
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Carpenters - Yesterday Once More,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteChiliChillmypainmadebywater
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette ChiliChill - mypainmadebywater,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteColdplayVivaLaVida
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Coldplay - Viva La Vida,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteDarrenKorbNoEscape
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Darren_Korb_No_Escape,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteDJBlyatmanRussianVillageBoysCykaBlyatO
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette DJ_Blyatman_Russian_Village_Boys_Cyka_Blyat_O,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteDJBlyatmanRussianVillageBoysRAZJEBASSER
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette DJ_Blyatman_Russian_Village_Boys_RAZJEBASSER_,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteDonaldCraigAnnieYoureNeverFullyDressed
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Donald_Craig_Annie_You_re_Never_Fully_Dressed_,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteDrakeGodsPlan
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Drake_God_s_Plan,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteDrenMcDonaldElValsDelTacodeRana
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Dren_McDonald_El_Vals_Del_Taco_de_Rana,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteEminemMockingbird
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Eminem_Mockingbird,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteEminemRapGodExplicit
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Eminem_Rap_God_Explicit_,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteEminemStanLongVersionftDido
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Eminem_Stan_Long_Version_ft_Dido,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteEminemVenom
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Eminem_Venom,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteEminemWithoutMe
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Eminem_Without_Me,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteFIFTYFIFTYCupidTwinVersionLyrics
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette FIFTY_FIFTY_Cupid_Twin_Version_Lyrics_,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteFool'sGardenLemonTree
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Fool's Garden - Lemon Tree,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteFoxStevensonMestoChatterbox
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Fox_Stevenson_Mesto_Chatterbox,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteGOYANGUBURUBURTAKUPAZDANCECREWTIKTOKVIRA
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette GOYANG_UBUR_UBUR_TAKUPAZ_DANCE_CREW___TIK_TOK_VIRA,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteHaddawayWhatIsLoveOfficial
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Haddaway_What_Is_Love_Official_,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteHarryStylesAsItWasLyrics
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Harry_Styles_As_It_Was_Lyrics_,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteHotelUglyShutupMyMomsCalling
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Hotel_Ugly_Shut_up_My_Moms_Calling,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteIGotSmokeFullOriginalTheBestChinaRapi
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette I_Got_Smoke_Full_Original_The_Best_China_Rap_i,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteJaniceVidalyigege
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Janice_Vidal_yigege,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteJustinTimberlakeCareyMulliganStarkSandsFiveHundredMiles
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette Justin TimberlakeCarey MulliganStark Sands - Five Hundred Miles,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteJvkegoldenhour
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Jvke_golden_hour,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteKennyGGoingHome
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Kenny_G_Going_Home,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteKnock2dashstarOfficialMusicVideo
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Knock2_dashstar_Official_Music_Video_,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteLanaDelReySummertimeSadness
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Lana Del Rey - Summertime Sadness,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteLanaDelReyYoungAndBeautiful
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Lana_Del_Rey_Young_And_Beautiful,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item Cassettelitangxiatian
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette litangxiatian,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteMarikaLil'Goldfish
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Marika - Lil' Goldfish,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteNeckDeepGoldSteps
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette Neck_Deep_Gold_Steps,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassettenohideaButterflies
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette nohidea. - Butterflies,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteODESZAAMomentApart
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape2,
+		DisplayName		=	Cassette ODESZA_A_Moment_Apart,
+		WorldStaticModel = Tsarcraft.TCTape2,
+	}
+
+	item CassetteOliverTreeLifeGoesOnMusicVideo
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Oliver_Tree_Life_Goes_On_Music_Video_,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassettePegboardNerdsDisconnected
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Pegboard_Nerds_Disconnected,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassettePonderosaTwinsPlusOneBound
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette Ponderosa Twins Plus One - Bound,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteRickAstleyNeverGonnaGiveYouUpOfficialMu
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Rick_Astley_Never_Gonna_Give_You_Up_Official_Mu,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteRussianVillageBoysMrPolskaAdidasOffici
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape6,
+		DisplayName		=	Cassette Russian_Village_Boys_Mr_Polska_Adidas_Offici,
+		WorldStaticModel = Tsarcraft.TCTape6,
+	}
+
+	item CassetteSabicasCarceleraReflejoAndaluz
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape1,
+		DisplayName		=	Cassette Sabicas_Carcelera_Reflejo_Andaluz,
+		WorldStaticModel = Tsarcraft.TCTape1,
+	}
+
+	item CassetteSamFeldtPostMalonefeatRANI
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette Sam_Feldt_Post_Malone_feat_RANI_,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteSarahBrightmanScarboroughFair
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette Sarah Brightman - Scarborough Fair,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteSelenaGomezMarshmelloWolves
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Selena GomezMarshmello - Wolves,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteSWINchicken
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape11,
+		DisplayName		=	Cassette SWIN_chicken,
+		WorldStaticModel = Tsarcraft.TCTape11,
+	}
+
+	item CassetteTheVerkkarsEZ4ENCEkannatuslaulu
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape5,
+		DisplayName		=	Cassette The_Verkkars_EZ4ENCE_kannatuslaulu_,
+		WorldStaticModel = Tsarcraft.TCTape5,
+	}
+
+	item CassetteTheVerkkarsFlashbangdancefeatn0thing
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette The_Verkkars_Flashbang_dance_feat_n0thing_,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item Cassettetiancaibaichimeng
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape9,
+		DisplayName		=	Cassette tiancaibaichimeng,
+		WorldStaticModel = Tsarcraft.TCTape9,
+	}
+
+	item CassetteTravisScottSICKOMODEftDrake
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Travis_Scott_SICKO_MODE_ft_Drake,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item CassetteTwinAtlanticNoSleep
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape10,
+		DisplayName		=	Cassette Twin_Atlantic_No_Sleep,
+		WorldStaticModel = Tsarcraft.TCTape10,
+	}
+
+	item CassetteVicetoneTonyIgyAstronomia
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Vicetone_Tony_Igy_Astronomia,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteVISXGEIMMACULATE
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette VISXGE_IMMACULATE,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteWalkofftheEarthDSmokeBetOnMe
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape4,
+		DisplayName		=	Cassette Walk off the EarthD Smoke - Bet On Me,
+		WorldStaticModel = Tsarcraft.TCTape4,
+	}
+
+	item Cassettexinbaodao
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape7,
+		DisplayName		=	Cassette xinbaodao_,
+		WorldStaticModel = Tsarcraft.TCTape7,
+	}
+
+	item CassetteyanDistance
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape3,
+		DisplayName		=	Cassette yanDistance,
+		WorldStaticModel = Tsarcraft.TCTape3,
+	}
+
+	item CassetteYvesVWeGotThatCoolfeatAfrojackIcona
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Yves_V_We_Got_That_Cool_feat_Afrojack_Icona_,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+	item CassetteZbea
+	{
+		Type			=	Normal,
+		DisplayCategory = Entertainment,
+		Weight			=	0.02,
+		Icon			=	TCTape8,
+		DisplayName		=	Cassette Zbea,
+		WorldStaticModel = Tsarcraft.TCTape8,
+	}
+
+}
