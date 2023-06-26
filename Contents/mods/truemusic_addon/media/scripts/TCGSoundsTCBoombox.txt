@@ -20,6 +20,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteAnneMarieToBeYoungfeatDojaCat
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Anne_Marie_To_Be_Young_feat_Doja_Cat_.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteAviciiMartinGarrixSimonAldredWaitingForLove
 	{
 		category = True Music,
@@ -70,6 +80,36 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteBrunoMars24KMagicOfficialMusicVideo
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bruno_Mars_24K_Magic_Official_Music_Video_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBrunoMarsFinesseRemixfeatCardiBOffi
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bruno_Mars_Finesse_Remix_feat_Cardi_B_Offi.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteBrunoMarsThat'sWhatILikeOfficialMusicVi
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Bruno_Mars_That's_What_I_Like_Official_Music_Vi.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteCarpentersYesterdayOnceMore
 	{
 		category = True Music,
@@ -77,6 +117,16 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Carpenters - Yesterday Once More.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettechicorosesadfeatafrojackLYRICS
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/chico_rose_sad_feat_afrojack_LYRICS_.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -97,6 +147,26 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Coldplay - Viva La Vida.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteCurbiButterflyEffect
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Curbi_Butterfly_Effect.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteDaftPunkGetLuckyOfficialAudioftPharrel
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Daft_Punk_Get_Lucky_Official_Audio_ft_Pharrel.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -220,6 +290,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteFlyMeToTheMoonyuduotianguang
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Fly Me To The Moon-yu duo tian guang.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteFool'sGardenLemonTree
 	{
 		category = True Music,
@@ -230,13 +310,43 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
-	sound CassetteFoxStevensonMestoChatterbox
+	sound CassetteFoxStevensonArigatou
 	{
 		category = True Music,
 		master = Ambient,
 		clip
 		{
-			file = media/yourMusic/TCBoombox/Fox_Stevenson_Mesto_Chatterbox.ogg,
+			file = media/yourMusic/TCBoombox/Fox_Stevenson_Arigatou.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteFoxStevensonChatterbox
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Fox_Stevenson_Chatterbox.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteFoxStevensonCurbiHoohahOfficialMusicVid
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Fox_Stevenson_Curbi_Hoohah_Official_Music_Vid.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteFoxStevensonSweetsSodaPopOriginalMix
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Fox_Stevenson_Sweets_Soda_Pop_Original_Mix_.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -340,6 +450,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteLadyGagaBLACKPINKSourCandyAudio
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Lady_Gaga_BLACKPINK_Sour_Candy_Audio_.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteLanaDelReySummertimeSadness
 	{
 		category = True Music,
@@ -380,6 +500,76 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteMarkRonsonUptownFunkfeatBrunoMars
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Mark_Ronson_Uptown_Funk_feat_Bruno_Mars_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMaroon5NobodysLoveLyricVideo
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Maroon_5_Nobody_s_Love_Lyric_Video_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMarshmelloAloneOfficialMusicVideo
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Marshmello_Alone_Official_Music_Video_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMarshmelloftBastilleHappierOfficialMusic
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Marshmello_ft_Bastille_Happier_Official_Music_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMarshmelloSummerOfficialMusicVideowithLe
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Marshmello_Summer_Official_Music_Video_with_Le.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMarshmelloxDuckTalesFLYMusicVideo
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Marshmello_x_DuckTales_FLY_Music_Video_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteMartinGarrixYottabyte
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Martin_Garrix_Yottabyte.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteNeckDeepGoldSteps
 	{
 		category = True Music,
@@ -400,6 +590,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteNujabesAruarianDance
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Nujabes - Aruarian Dance.ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteODESZAAMomentApart
 	{
 		category = True Music,
@@ -407,6 +607,36 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/ODESZA_A_Moment_Apart.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteOliverHeldensBunnydance
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Oliver_Heldens_Bunnydance.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteOliverHeldensThisGroove
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Oliver_Heldens_This_Groove.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteOliverHeldensxFirebeatzSchellaLiftMeUp
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Oliver_Heldens_x_Firebeatz_Schella_Lift_Me_Up_.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -420,6 +650,16 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassettepaxGee(DiscoRmx)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/pax - Gee (Disco Rmx).ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassettePegboardNerdsDisconnected
 	{
 		category = True Music,
@@ -427,6 +667,16 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/Pegboard_Nerds_Disconnected.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassettePegboardNerdsTonyJuniorVoodooOfficialLy
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Pegboard_Nerds_Tony_Junior_Voodoo_Official_Ly.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -470,13 +720,33 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
-	sound CassetteSamFeldtPostMalonefeatRANI
+	sound CassetteSaitoTRIBUTETONUJABES
 	{
 		category = True Music,
 		master = Ambient,
 		clip
 		{
-			file = media/yourMusic/TCBoombox/Sam_Feldt_Post_Malone_feat_RANI_.ogg,
+			file = media/yourMusic/TCBoombox/Saito-TRIBUTE TO NUJABES.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSamFeldtDownForAnythingfeatKARRA
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sam_Feldt_Down_For_Anything_feat_KARRA_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteSamFeldtPostMalonefeatRANIOfficialMus
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/Sam_Feldt_Post_Malone_feat_RANI_Official_Mus.ogg,
 			distanceMax = 75,
 		}
 	}
@@ -510,6 +780,26 @@ module Tsarcraft
 			distanceMax = 75,
 		}
 	}
+	sound CassetteTheFatRatEVERGLOWGhostLight
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/TheFatRatEVERGLOW - Ghost Light.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheFatRatFosterThePeopleDon'tStop(TheFatRatRemix)
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/TheFatRatFoster The People - Don't Stop (TheFatRat Remix).ogg,
+			distanceMax = 75,
+		}
+	}
 	sound CassetteTheVerkkarsEZ4ENCEkannatuslaulu
 	{
 		category = True Music,
@@ -527,6 +817,56 @@ module Tsarcraft
 		clip
 		{
 			file = media/yourMusic/TCBoombox/The_Verkkars_Flashbang_dance_feat_n0thing_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheWeekndBlindingLights
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The_Weeknd_Blinding_Lights.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheWeekndCan'tFeelMyFaceOfficialAudio
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The_Weeknd_Can't_Feel_My_Face_Official_Audio_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheWeekndEarnedItfromFiftyShadesOfGrey
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The_Weeknd_Earned_It_from_Fifty_Shades_Of_Grey_.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheWeekndStarboyLyricsftDaftPunk
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The_Weeknd_Starboy_Lyrics_ft_Daft_Punk.ogg,
+			distanceMax = 75,
+		}
+	}
+	sound CassetteTheWeekndTheHills
+	{
+		category = True Music,
+		master = Ambient,
+		clip
+		{
+			file = media/yourMusic/TCBoombox/The_Weeknd_The_Hills.ogg,
 			distanceMax = 75,
 		}
 	}
